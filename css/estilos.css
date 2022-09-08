@@ -6,7 +6,7 @@
   box-sizing: border-box; }
 
 body {
-  background: #fff;
+  background: #CAB8C8;
   font-family: "Open Sans";
   font-size: 16px; }
 
@@ -166,7 +166,7 @@ footer .contacto {
       footer .contacto .formulario .boton:hover {
         background: #387bea; }
 footer .redes-sociales {
-  background: #1e2b38;
+  background: #5D2C56;
   padding: 60px 0; }
   footer .redes-sociales .contenedor {
     display: flex;
